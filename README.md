@@ -11,7 +11,7 @@ KanPi combines "Kanshi" (monitoring or oversight in Japanese) with "Pi" from Ras
 
 ## Research and Planning
 
-- [ ] OBD2 Protocol: Understanding the standardized system used by cars for self-diagnostics and reporting.
+- [X] OBD2 Protocol: Understanding the standardized system used by cars for self-diagnostics and reporting.
 - [ ] CAN Bus System: Learning how the Controller Area Network (CAN) bus allows microcontrollers and devices to communicate with each other without a host computer.
 - [ ] Hardware Requirements: Raspberry Pi Pico, CAN bus interface, display screen (OLED/TFT LCD), connectors, and necessary cabling.
 - [ ] Software Requirements: Developing the software in Python or C++, using libraries for CAN bus communication, and designing the UI for the display.
