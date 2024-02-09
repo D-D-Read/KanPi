@@ -1,5 +1,12 @@
 # CAN Bus System Research for KanPi
 
+## Significance of CAN Bus in Automotive Diagnostics
+The CAN bus system is fundamental to modern automotive diagnostics and electronic control, offering a reliable method for ECUs to communicate critical operational data. This system simplifies vehicle wiring, improves functionality and reliability, and supports advanced features such as:
+- **Real-Time Monitoring**: Enables continuous monitoring of vehicle systems for performance and safety.
+- **Diagnostics**: Facilitates the identification and troubleshooting of issues through diagnostic messages and codes.
+- **Vehicle Control Systems**: Supports complex functions like anti-lock braking systems (ABS), engine control units (ECUs), and advanced driver-assistance systems (ADAS).
+The CAN bus system is a cornerstone of modern vehicle electronics, enabling sophisticated control and diagnostics while reducing complexity. Its robustness, coupled with the ability to operate in electrically noisy environments, makes it an indispensable technology in the automotive industry and beyond.
+
 ## Overview
 The Controller Area Network (CAN) bus is a robust vehicle bus standard designed to allow microcontrollers and devices to communicate with each other within a vehicle without a host computer. Introduced by Bosch in 1986 for automotive applications, the CAN bus has since become a standard in a variety of industries due to its reliability in environments subject to electrical noise and its efficient message prioritization system.
 
@@ -25,12 +32,3 @@ Several higher-layer protocols have been developed on top of the base CAN specif
 - **CANopen**: Commonly used in industrial and automation environments.
 - **J1939**: Used in heavy-duty vehicles and machinery for diagnostics and control.
 - **ISO 11898**: Defines the CAN standard including data link layer and physical layer specifications.
-
-## Significance of CAN Bus in Automotive Diagnostics
-The CAN bus system is fundamental to modern automotive diagnostics and electronic control, offering a reliable method for ECUs to communicate critical operational data. This system simplifies vehicle wiring, improves functionality and reliability, and supports advanced features such as:
-- **Real-Time Monitoring**: Enables continuous monitoring of vehicle systems for performance and safety.
-- **Diagnostics**: Facilitates the identification and troubleshooting of issues through diagnostic messages and codes.
-- **Vehicle Control Systems**: Supports complex functions like anti-lock braking systems (ABS), engine control units (ECUs), and advanced driver-assistance systems (ADAS).
-
-## Conclusion
-The CAN bus system is a cornerstone of modern vehicle electronics, enabling sophisticated control and diagnostics while reducing complexity. Its robustness, coupled with the ability to operate in electrically noisy environments, makes it an indispensable technology in the automotive industry and beyond.
