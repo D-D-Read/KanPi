@@ -26,8 +26,8 @@ KanPi combines "Kanshi" (monitoring or oversight in Japanese) with "Pi" from Ras
 
 ## Core Components
 
-### Raspberry Pi Pico
-The central microcontroller unit for the project, featuring an RP2040 chip.
+### [Raspberry Pi Pico](https://www.raspberrypi.com/products/raspberry-pi-pico/)
+The central microcontroller unit for the project, featuring an [RP2040 chip](https://www.raspberrypi.com/products/rp2040/).
 
 ### Communication Interfaces
 
