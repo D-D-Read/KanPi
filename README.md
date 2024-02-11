@@ -31,8 +31,7 @@ The central microcontroller unit for the project, featuring an [RP2040 chip](htt
 
 ### Communication Interfaces
 
-- **SparkFun OBD-II UART Board (ELM327)**: For accessing the vehicle's OBD-II system via UART, simplifying the process of reading diagnostic information.
-- **CAN Bus Module**: A module like the MCP2515 CAN Bus Module with an SPI interface, compatible with the Raspberry Pi Pico, for accessing the vehicle's CAN network directly.
+- **SparkFun OBD-II UART Board (ELM327)**: Utilized for simplified communication with the vehicle’s OBD-II system, providing access to a wide range of diagnostic information over UART. This includes direct access to CAN bus data through the ELM327 chip’s capability to communicate over the vehicle's CAN network, abstracting the complexity of direct CAN protocol handling.
 
 ### Display Options
 
