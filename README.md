@@ -31,7 +31,7 @@ The central microcontroller unit for the project, featuring an [RP2040 chip](htt
 
 ### Communication Interfaces
 
-- **SparkFun OBD-II UART Board (ELM327)**: Utilized for simplified communication with the vehicle’s OBD-II system, providing access to a wide range of diagnostic information over UART. This includes direct access to CAN bus data through the ELM327 chip’s capability to communicate over the vehicle's CAN network, abstracting the complexity of direct CAN protocol handling.
+- **[SparkFun OBD-II UART Board (ELM327)](https://www.sparkfun.com/products/9555?_ga=2.147943607.1211733312.1707513035-2096477449.1707513035&_gl=1*1isppcj*_ga*MjA5NjQ3NzQ0OS4xNzA3NTEzMDM1*_ga_T369JS7J9N*MTcwNzYwNDg4NS44LjEuMTcwNzYwNTUwNy40OC4wLjA.)**: Utilized for simplified communication with the vehicle’s OBD-II system, providing access to a wide range of diagnostic information over UART. This includes direct access to CAN bus data through the ELM327 chip’s capability to communicate over the vehicle's CAN network, abstracting the complexity of direct CAN protocol handling.
 
 ### Display Options
 
