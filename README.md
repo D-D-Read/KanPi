@@ -1,6 +1,6 @@
 ## Project Name Symbolism
 
-KanPi combines "Kanshi" (monitoring or oversight in Japanese) with "Pi" from Raspberry Pi, reflecting the project's focus on automotive monitoring through innovative technology. It aims to provide car enthusiasts and DIYers with a powerful tool for enhancing their vehicle's performance and health monitoring capabilities.
+KanPi combines "Kanshi" (monitoring or oversight in Japanese) with "Pi" from Raspberry Pi, reflecting the project's focus on automotive monitoring. It aims to provide car enthusiasts and DIYers with a powerful tool for enhancing their vehicle's performance and health monitoring capabilities.
 
 ## Project Goals
 
